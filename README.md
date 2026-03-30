@@ -1,2 +1,2 @@
 # Zama-Distribution-SQL
-this is the zama distribution SQL code used to generate query on dune analysis. --ZAMA Holder Distribution & top holders (Post-TGE Analysis) -- Query 1: Tra
+this is the zama distribution SQL code used to generate query on dune analysis. --ZAMA Holder Distribution & top holders (Post-TGE Analysis) -- Query 1: Trac
